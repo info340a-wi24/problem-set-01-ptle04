@@ -1,0 +1,597 @@
+jest-haste-map: Haste module naming collision: com.unity.ext.nunit
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.ext.nunit@1.0.6/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.ext.nunit@1.0.6/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.test-framework
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.test-framework@1.1.33/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.test-framework@1.1.33/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.collab-proxy
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.collab-proxy@2.2.0/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.collab-proxy@2.2.0/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.editorcoroutines
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.editorcoroutines@1.0.0/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.editorcoroutines@1.0.0/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.ide.vscode
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.ide.vscode@1.2.5/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.ide.rider
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.ide.rider@3.0.25/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.ide.rider@3.0.25/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.ide.visualstudio
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.ide.visualstudio@2.0.21/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.ide.visualstudio@2.0.21/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.settings-manager
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.settings-manager@2.0.1/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.settings-manager@2.0.1/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.performance.profile-analyzer
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.performance.profile-analyzer@1.2.2/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.testtools.codecoverage
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.testtools.codecoverage@1.2.4/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.textmeshpro
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.textmeshpro@3.0.6/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.textmeshpro@3.0.6/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.timeline
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.timeline@1.7.6/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.timeline@1.7.6/package.json
+
+jest-haste-map: Haste module naming collision: com.unity.visualscripting
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/My project/Library/PackageCache/com.unity.visualscripting@1.9.1/package.json
+    * <rootDir>/Library/Unity/cache/packages/packages.unity.com/com.unity.visualscripting@1.9.1/package.json
+
+jest-haste-map: Haste module naming collision: Code
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/package.json
+
+jest-haste-map: Haste module naming collision: coffeescript
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/coffeescript/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/coffeescript/package.json
+
+jest-haste-map: Haste module naming collision: csharp
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/csharp/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/csharp/package.json
+
+jest-haste-map: Haste module naming collision: bat
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/bat/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/bat/package.json
+
+jest-haste-map: Haste module naming collision: cpp
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/cpp/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/cpp/package.json
+
+jest-haste-map: Haste module naming collision: debug-server-ready
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/debug-server-ready/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/debug-server-ready/package.json
+
+jest-haste-map: Haste module naming collision: debug-auto-launch
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/debug-auto-launch/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/package.json
+
+jest-haste-map: Haste module naming collision: clojure
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/clojure/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/clojure/package.json
+
+jest-haste-map: Haste module naming collision: configuration-editing
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/configuration-editing/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/configuration-editing/package.json
+
+jest-haste-map: Haste module naming collision: extension-editing
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/extension-editing/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/extension-editing/package.json
+
+jest-haste-map: Haste module naming collision: docker
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/docker/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/docker/package.json
+
+jest-haste-map: Haste module naming collision: css
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/css/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/css/package.json
+
+jest-haste-map: Haste module naming collision: fsharp
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/fsharp/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/fsharp/package.json
+
+jest-haste-map: Haste module naming collision: dart
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/dart/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/dart/package.json
+
+jest-haste-map: Haste module naming collision: diff
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/diff/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/diff/package.json
+
+jest-haste-map: Haste module naming collision: emmet
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/emmet/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/package.json
+
+jest-haste-map: Haste module naming collision: git-base
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/git-base/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git-base/package.json
+
+jest-haste-map: Haste module naming collision: github-authentication
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/github-authentication/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/github-authentication/package.json
+
+jest-haste-map: Haste module naming collision: css-language-features
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/css-language-features/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/package.json
+
+jest-haste-map: Haste module naming collision: go
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/go/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/go/package.json
+
+jest-haste-map: Haste module naming collision: github
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/github/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/github/package.json
+
+jest-haste-map: Haste module naming collision: grunt
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/grunt/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/grunt/package.json
+
+jest-haste-map: Haste module naming collision: gulp
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/gulp/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/gulp/package.json
+
+jest-haste-map: Haste module naming collision: hlsl
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/hlsl/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/hlsl/package.json
+
+jest-haste-map: Haste module naming collision: groovy
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/groovy/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/groovy/package.json
+
+jest-haste-map: Haste module naming collision: git
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/git/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/package.json
+
+jest-haste-map: Haste module naming collision: jake
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/jake/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/jake/package.json
+
+jest-haste-map: Haste module naming collision: ini
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ini/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ini/package.json
+
+jest-haste-map: Haste module naming collision: html
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/html/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/html/package.json
+
+jest-haste-map: Haste module naming collision: handlebars
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/handlebars/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/handlebars/package.json
+
+jest-haste-map: Haste module naming collision: java
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/java/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/java/package.json
+
+jest-haste-map: Haste module naming collision: ipynb
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ipynb/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ipynb/package.json
+
+jest-haste-map: Haste module naming collision: html-language-features
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/html-language-features/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/html-language-features/package.json
+
+jest-haste-map: Haste module naming collision: javascript
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/javascript/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/javascript/package.json
+
+jest-haste-map: Haste module naming collision: json
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/json/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/json/package.json
+
+jest-haste-map: Haste module naming collision: json-language-features
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/json-language-features/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/package.json
+
+jest-haste-map: Haste module naming collision: julia
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/julia/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/julia/package.json
+
+jest-haste-map: Haste module naming collision: log
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/log/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/log/package.json
+
+jest-haste-map: Haste module naming collision: lua
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/lua/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/lua/package.json
+
+jest-haste-map: Haste module naming collision: latex
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/latex/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/latex/package.json
+
+jest-haste-map: Haste module naming collision: less
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/less/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/less/package.json
+
+jest-haste-map: Haste module naming collision: make
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/make/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/make/package.json
+
+jest-haste-map: Haste module naming collision: markdown-math
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/markdown-math/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/markdown-math/package.json
+
+jest-haste-map: Haste module naming collision: markdown
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/markdown-basics/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/markdown-basics/package.json
+
+jest-haste-map: Haste module naming collision: merge-conflict
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/merge-conflict/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/package.json
+
+jest-haste-map: Haste module naming collision: microsoft-authentication
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/microsoft-authentication/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/microsoft-authentication/package.json
+
+jest-haste-map: Haste module naming collision: media-preview
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/media-preview/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/media-preview/package.json
+
+jest-haste-map: Haste module naming collision: js-debug-companion
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ms-vscode.js-debug-companion/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug-companion/package.json
+
+jest-haste-map: Haste module naming collision: vscode-js-profile-table
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ms-vscode.vscode-js-profile-table/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.vscode-js-profile-table/package.json
+
+jest-haste-map: Haste module naming collision: markdown-language-features
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/markdown-language-features/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/markdown-language-features/package.json
+
+jest-haste-map: Haste module naming collision: objective-c
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/objective-c/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/objective-c/package.json
+
+jest-haste-map: Haste module naming collision: php-language-features
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/php-language-features/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/php-language-features/package.json
+
+jest-haste-map: Haste module naming collision: npm
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/npm/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/npm/package.json
+
+jest-haste-map: Haste module naming collision: powershell
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/powershell/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/powershell/package.json
+
+jest-haste-map: Haste module naming collision: php
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/php/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/php/package.json
+
+jest-haste-map: Haste module naming collision: builtin-notebook-renderers
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/notebook-renderers/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/notebook-renderers/package.json
+
+jest-haste-map: Haste module naming collision: r
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/r/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/r/package.json
+
+jest-haste-map: Haste module naming collision: restructuredtext
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/restructuredtext/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/restructuredtext/package.json
+
+jest-haste-map: Haste module naming collision: pug
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/pug/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/pug/package.json
+
+jest-haste-map: Haste module naming collision: razor
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/razor/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/razor/package.json
+
+jest-haste-map: Haste module naming collision: python
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/python/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/python/package.json
+
+jest-haste-map: Haste module naming collision: perl
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/perl/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/perl/package.json
+
+jest-haste-map: Haste module naming collision: references-view
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/references-view/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/references-view/package.json
+
+jest-haste-map: Haste module naming collision: ruby
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ruby/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ruby/package.json
+
+jest-haste-map: Haste module naming collision: rust
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/rust/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/rust/package.json
+
+jest-haste-map: Haste module naming collision: shellscript
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/shellscript/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/shellscript/package.json
+
+jest-haste-map: Haste module naming collision: swift
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/swift/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/swift/package.json
+
+jest-haste-map: Haste module naming collision: scss
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/scss/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/scss/package.json
+
+jest-haste-map: Haste module naming collision: shaderlab
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/shaderlab/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/shaderlab/package.json
+
+jest-haste-map: Haste module naming collision: theme-defaults
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-defaults/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-defaults/package.json
+
+jest-haste-map: Haste module naming collision: theme-kimbie-dark
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-kimbie-dark/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-kimbie-dark/package.json
+
+jest-haste-map: Haste module naming collision: simple-browser
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/simple-browser/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/simple-browser/package.json
+
+jest-haste-map: Haste module naming collision: search-result
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/search-result/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/search-result/package.json
+
+jest-haste-map: Haste module naming collision: sql
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/sql/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/sql/package.json
+
+jest-haste-map: Haste module naming collision: theme-abyss
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-abyss/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-abyss/package.json
+
+jest-haste-map: Haste module naming collision: js-debug
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ms-vscode.js-debug/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/package.json
+
+jest-haste-map: Haste module naming collision: theme-monokai-dimmed
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-monokai-dimmed/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-monokai-dimmed/package.json
+
+jest-haste-map: Haste module naming collision: theme-monokai
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-monokai/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-monokai/package.json
+
+jest-haste-map: Haste module naming collision: theme-red
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-red/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-red/package.json
+
+jest-haste-map: Haste module naming collision: vscode-theme-seti
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-seti/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-seti/package.json
+
+jest-haste-map: Haste module naming collision: theme-quietlight
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-quietlight/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-quietlight/package.json
+
+jest-haste-map: Haste module naming collision: theme-solarized-dark
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-solarized-dark/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-solarized-dark/package.json
+
+jest-haste-map: Haste module naming collision: typescript
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/typescript-basics/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-basics/package.json
+
+jest-haste-map: Haste module naming collision: theme-tomorrow-night-blue
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-tomorrow-night-blue/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-tomorrow-night-blue/package.json
+
+jest-haste-map: Haste module naming collision: theme-solarized-light
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/theme-solarized-light/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/theme-solarized-light/package.json
+
+jest-haste-map: Haste module naming collision: yaml
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/yaml/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/yaml/package.json
+
+jest-haste-map: Haste module naming collision: vb
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/vb/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/vb/package.json
+
+jest-haste-map: Haste module naming collision: xml
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/xml/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/xml/package.json
+
+jest-haste-map: Haste module naming collision: typescript-language-features
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/typescript-language-features/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/package.json
+
+jest-haste-map: Haste module naming collision: vscode-css-languageserver
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/css-language-features/server/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/package.json
+
+jest-haste-map: Haste module naming collision: vscode-html-languageserver
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/html-language-features/server/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/html-language-features/server/package.json
+
+jest-haste-map: Haste module naming collision: vscode-json-languageserver
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/json-language-features/server/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/server/package.json
+
+jest-haste-map: Haste module naming collision: vscode-markdown-languageserver
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/markdown-language-features/server/package.json
+    * <rootDir>/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/markdown-language-features/server/package.json
+
+ FAIL  problem-set-01-ptle04/problem-a/problem.spec.js
+  ● Test suite failed to run
+
+    The name `ini` was looked up in the Haste module map. It cannot be resolved, because there exists several different files, or packages, that provide a module for that particular name and platform. The platform is generic (no extension). You must delete or exclude files until there remains only one of these:
+
+      * `/Users/phuongthile/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ini/package.json` (package)
+      * `/Users/phuongthile/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ini/package.json` (package)
+
+      4 |
+      5 | //include custom matchers
+    > 6 | const styleMatchers = require('jest-style-matchers');
+        |                       ^
+      7 | expect.extend(styleMatchers);
+      8 |
+      9 | const htmlPath = __dirname + '/index.html';
+
+      at ModuleMap._assertNoDuplicates (../../usr/local/lib/node_modules/jest/node_modules/jest-haste-map/build/ModuleMap.js:189:11)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/global-prefix/index.js:13:13)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/global-modules/index.js:11:16)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/utils/getModulePath.js:4:23)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/augmentConfig.js:4:23)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/createStylelint.js:3:23)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/index.js:5:25)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/jest-style-matchers/index.js:5:19)
+      at Object.require (Desktop/Info340/problem-set-01-ptle04/problem-a/problem.spec.js:6:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        0.412 s
+Ran all test suites matching /problem/i.
+phuongthile@MacBook-Pro-7 Info340 % -a
+zsh: command not found: -a
+phuongthile@MacBook-Pro-7 Info340 % 
+phuongthile@MacBook-Pro-7 Info340 %         jest problem
+        -a
+ FAIL  problem-set-01-ptle04/problem-a/problem.spec.js
+  ● Test suite failed to run
+
+    The name `ini` was looked up in the Haste module map. It cannot be resolved, because there exists several different files, or packages, that provide a module for that particular name and platform. The platform is generic (no extension). You must delete or exclude files until there remains only one of these:
+
+      * `/Users/phuongthile/Desktop/Info340/Visual Studio Code 2.app/Contents/Resources/app/extensions/ini/package.json` (package)
+      * `/Users/phuongthile/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ini/package.json` (package)
+
+      4 |
+      5 | //include custom matchers
+    > 6 | const styleMatchers = require('jest-style-matchers');
+        |                       ^
+      7 | expect.extend(styleMatchers);
+      8 |
+      9 | const htmlPath = __dirname + '/index.html';
+
+      at ModuleMap._assertNoDuplicates (../../usr/local/lib/node_modules/jest/node_modules/jest-haste-map/build/ModuleMap.js:189:11)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/global-prefix/index.js:13:13)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/global-modules/index.js:11:16)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/utils/getModulePath.js:4:23)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/augmentConfig.js:4:23)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/createStylelint.js:3:23)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/stylelint/lib/index.js:5:25)
+      at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/jest-style-matchers/index.js:5:19)
+      at Object.require (Desktop/Info340/problem-set-01-ptle04/problem-a/problem.spec.js:6:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        0.203 s
+Ran all test suites matching /problem/i.
