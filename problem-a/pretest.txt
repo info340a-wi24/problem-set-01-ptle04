@@ -590,8 +590,3 @@ phuongthile@MacBook-Pro-7 Info340 %         jest problem
       at Object.<anonymous> (Desktop/Info340/problem-set-01-ptle04/node_modules/jest-style-matchers/index.js:5:19)
       at Object.require (Desktop/Info340/problem-set-01-ptle04/problem-a/problem.spec.js:6:23)
 
-Test Suites: 1 failed, 1 total
-Tests:       0 total
-Snapshots:   0 total
-Time:        0.203 s
-Ran all test suites matching /problem/i.
